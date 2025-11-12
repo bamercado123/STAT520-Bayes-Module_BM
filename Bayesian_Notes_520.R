@@ -58,4 +58,4 @@ BNN<-function(n,mu,sigma,theta,tau)
   
 }
 
-BNN(10,20,5,12,4)
+BNN(100,25,50,40,18)
